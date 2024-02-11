@@ -1,10 +1,8 @@
 # Calculadora JS
 
-<img src="https://i.ibb.co/QJBNx5v/Screen-Shot-2021-01-31-at-22-41-36.png" alt="drawing" width="400"/>
+Este projeto é um clone de <https://github.com/accesibleprogramacion/calculadora>, com objetivo de praticar alguns conceitos de git.
 
-**Calculadora desarrollada en este tutorial:** https://youtu.be/7YDagj3cVAk
-
-Tecnologías:
+Tecnologias:
 - HTML
-- Css
+- CSS
 - JavaScript
